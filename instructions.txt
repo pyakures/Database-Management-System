@@ -1,0 +1,11 @@
+Sahil Pyakurel
+PA4
+
+Instructions on running my code!
+
+Use a g++ compiler to compile it. For example, “g++ p4.cpp -o p4”
+
+Running the program: "./p4"
+
+
+If you have any questions while compiling/testing please reach out to me. 
