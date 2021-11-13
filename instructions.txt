@@ -3,9 +3,9 @@ PA4
 
 Instructions on running my code!
 
-Use a g++ compiler to compile it. For example, “g++ p4.cpp -o p4”
+Use a g++ compiler to compile it. For example, “g++ DMS.cpp -o DMS”
 
-Running the program: "./p4"
+Running the program: "./DMS"
 
 
 If you have any questions while compiling/testing please reach out to me. 
